@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565971373670.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3558296171",
+    "id" : "B4219B",
+    "lastKnownWriteTime" : 1565971546,
+    "last_content_update" : 1565971546931,
+    "path" : "/media/chris/DATA/Documents/Git/01 Scripts/01 Initialization.R",
+    "project_path" : "01 Scripts/01 Initialization.R",
+    "properties" : {
+        "cursorPosition" : "6,39",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
